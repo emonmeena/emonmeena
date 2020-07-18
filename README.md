@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Django-React
-- 💬 Ask me about CP
-- 📫 How to reach me: mayank_m@cs.iitr.ac.in
-- 😄 Pronouns: He/his/him
