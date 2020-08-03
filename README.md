@@ -6,7 +6,7 @@
 I am back home, after wearing sketchy part of a freshman's life at IIT Roorkee. <br>
 During my stay, I learned much about many things, both technical and others as well. <br>
 Yaa, I miss the place so much, especially my friends🧡. <br>
-Apart from development, I do [CP](https://www.codechef.com/users/maksai00), [blogging](https://medium.com/@mayank16meena) and<br> contribute to [open-source](https://github.com/mayank-genesis/). <br><br>
+Apart from development, I do [CP](https://www.codechef.com/users/maksai00), [blogging](https://medium.com/@mayank16meena) and<br> contribute to [open-source](https://github.com/mayank-genesis/). <br>
 
 #### More me - 
 - 🔭 I’m currently working on [HUGO](https://gohugo.io/).
