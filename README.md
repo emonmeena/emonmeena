@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hola👋🏻, I'm Mayank!!
 <!--
 **mayank-genesis/mayank-genesis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Brief me - I am back home, after wearing sketchy part of a freshman's life at IIT Roorkee. 
+During my stay, I learned much about many things, both technical and others as well. 
+Yaa, I miss the place so much, especially my friends🧡.
+Apart from development, I do [CP](https://www.codechef.com/users/maksai00), [blogging](https://medium.com/@mayank16meena) and contribute to [open-source](https://github.com/mayank-genesis/). <br>
+More me - 
+- 🔭 I’m currently working on my portfolio [in HUGO]
+- 🌱 I’m currently learning django-react rest api
+- 👯 I’m looking to collaborate on open-source contribution
+- 🤔 I’m looking for help with 
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: An apple🍎, potato🥔, and onion🧅 all taste the same wth your nose plugged.
+- 😋 Not so fun fact: The Twitter bird actually has a name – Larry🐤.
+
+![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayank-genesis&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
