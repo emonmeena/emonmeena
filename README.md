@@ -7,7 +7,7 @@ Web - [Mayank Meena](https://mayankmeena.netlify.app/)<br>
 Also checkout - [Codechef](https://www.codechef.com/users/maksai00) [Blogs](https://medium.com/@mayank16meena) [YouTube](https://www.youtube.com/channel/UCwcdyxP6uk5zso-L4lY4Y8g?view_as=subscriber)<br>
 
 #### More me - 
-- 🔭 I’m currently working on [HUGO](https://gohugo.io/).
+- 🔭 I’m currently working on Deep Learning.
 - 🌱 I’m currently learning django and react.
 - 👯 I’m looking to collaborate on any fun project.
 - 🤔 I’m looking for help with blockchain.
