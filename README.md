@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=maayami.maayami)
 [![GitHub followers](https://img.shields.io/github/followers/maayami.svg?style=social&label=Follow)](https://github.com/maayami?tab=followers)
 
-#### Brief me - <br>
+#### Me - <br>
 Web - [Mayank Meena](https://mayankmeena.netlify.app/)<br>
 Also checkout - [Codechef](https://www.codechef.com/users/maksai00) [Blogs](https://medium.com/@mayank16meena) [YouTube](https://www.youtube.com/channel/UCwcdyxP6uk5zso-L4lY4Y8g?view_as=subscriber)<br>
 
