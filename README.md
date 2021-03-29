@@ -7,10 +7,8 @@ Web - [Mayank Meena](https://mayankmeena.netlify.app/)<br>
 Also checkout - [Codechef](https://www.codechef.com/users/maksai00) [Blogs](https://medium.com/@mayank16meena) [YouTube](https://www.youtube.com/channel/UCwcdyxP6uk5zso-L4lY4Y8g?view_as=subscriber)<br>
 
 #### More me - 
-- 🔭 I’m currently working on my soft skills.
-- 🌱 I’m currently reading books.
-- 👯 I’m looking to collaborate on any fun project (I would love to :-}).
-- 🤔 I’m looking for help with currently nothing.
+- 🔭 I’m currently contributing to open-source.
+- 👯 I’m looking to collaborate on any fun project.
 - 💬 Ask me about anything you think I will be best to approach.
 - 📫 How to reach me:
 <a margin="30px" href="https://twitter.com/Meina_Mk" target="/"><img height="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></i></a>
