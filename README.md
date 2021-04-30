@@ -19,4 +19,8 @@ Also checkout - [Codechef](https://www.codechef.com/users/maksai00) [Blogs](http
 - ⚡ Fun fact: An apple🍎, potato🥔, and onion🧅 all taste the same if you eat them with your nose plugged.
 - 😋 Not so fun fact: The Twitter bird actually has a name – Larry🐤.
 
-![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maayami&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![Maayami's github stats](https://github-readme-stats.vercel.app/api?username=Maayami&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maayami&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
