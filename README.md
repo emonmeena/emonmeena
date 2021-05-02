@@ -23,4 +23,4 @@ Also checkout - [Codechef](https://www.codechef.com/users/maksai00) [Blogs](http
 
 <br />
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maayami&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
