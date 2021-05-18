@@ -1,5 +1,5 @@
 ### Hola👋🏻, I'm Mayank!!
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=maayami.maayami)
+
 [![GitHub followers](https://img.shields.io/github/followers/maayami.svg?style=social&label=Follow)](https://github.com/maayami?tab=followers)
 
 #### Me - <br>
