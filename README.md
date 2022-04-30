@@ -22,4 +22,3 @@ Web - [Mayank Meena](https://mayankmeena.netlify.app/)<br> [Blogs](https://mediu
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emonmeena&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
