@@ -18,7 +18,7 @@ Web - [Mayank Meena](https://mayankmeena.netlify.app/)<br> [Blogs](https://mediu
 - ⚡ Fun fact: An apple🍎, potato🥔, and onion🧅 all taste the same if you eat them with your nose plugged.
 - 😋 Not so fun fact: The Twitter bird actually has a name – Larry🐤.
 
-[![emonmeena's github stats](https://github-readme-stats.vercel.app/api?username=emonmeena&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![emonmeena's github stats](https://github-readme-stats.vercel.app/api?username=emonmeena&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <br />
 
