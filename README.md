@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/emonmeena.svg?style=social&label=Follow)](https://github.com/emonmeena?tab=followers)
 
 #### Me - <br>
-Web - [Mayank Meena](https://mayankmeena.netlify.app/)<br> [Blogs](https://medium.com/@mayank16meena) [YouTube](https://www.youtube.com/channel/UCwcdyxP6uk5zso-L4lY4Y8g?view_as=subscriber)<br>
+Web - [Emon Meena](https://mayankmeena.netlify.app/)<br> [Blogs](https://medium.com/@mayank16meena) [YouTube](https://www.youtube.com/channel/UCwcdyxP6uk5zso-L4lY4Y8g?view_as=subscriber)<br>
 
 #### More me - 
 - 🔭 I’m currently contributing to open-source.
