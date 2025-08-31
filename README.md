@@ -1,4 +1,4 @@
-### Hola👋🏻, I'm Emon!!
+### Hi there, I'm <a href="https://emonmeena.netlify.app" target="_blank" title="Emon Meena">Emon Meena</a> 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=emonmeena.emonmeena)
 [![GitHub followers](https://img.shields.io/github/followers/emonmeena.svg?style=social&label=Follow)](https://github.com/emonmeena?tab=followers)
 <!--
@@ -11,10 +11,8 @@ Web - [Emon Meena](https://emonmeena.netlify.app/)<br> [Blogs](https://medium.co
  [![emonmeena's github stats](https://github-readme-stats.vercel.app/api?username=emonmeena&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-### Hi there, I'm <a href="https://emonmeena.netlify.app" target="_blank" title="Emon Meena">Emon Meena</a> 👋
-
-[![trinhminhtriet's LinkedIn Profile](images/linkedin.png)](https://linkedin.com/in/emonmeena)
-[![trinhminhtriet's X Profile](images/twitter.png)](https://x.com/emonmeena)
+[![emonmeena's LinkedIn Profile](images/linkedin.png)](https://linkedin.com/in/emonmeena)
+[![emonmeena's X Profile](images/twitter.png)](https://x.com/emonmeena)
 
 </br>
 
