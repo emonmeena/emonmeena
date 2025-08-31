@@ -18,13 +18,13 @@ Web - [Emon Meena](https://emonmeena.netlify.app/)<br> [Blogs](https://medium.co
 
 ## Glad to see you here!
 
-<img align="right" alt="Trinh Minh Triet" src="images/coding.gif" width="320px" />
+<img align="right" alt="Emon Meena" src="images/coding.gif" width="320px" />
 
 I think the unthinkable and build the impossible.
 
 **Talking about personal stuff:**
 
-- 👨 I’m Trinh Minh Triet (trinhminhtriet).
+- 👨 I’m Emon Meena (emonmeena).
 - 😄 Pronouns: he/him/his.
 - 📧 How to reach me: emon@nexicornai.com
 - 💬 Discord: emonmeena
