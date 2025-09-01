@@ -11,8 +11,17 @@ Web - [Emon Meena](https://emonmeena.netlify.app/)<br> [Blogs](https://medium.co
  [![emonmeena's github stats](https://github-readme-stats.vercel.app/api?username=emonmeena&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-[![emonmeena's LinkedIn Profile](images/linkedin.png)](https://linkedin.com/in/emonmeena)
-[![emonmeena's X Profile](images/twitter.png)](https://x.com/emonmeena)
+<p>
+  <a href="https://linkedin.com/in/emonmeena">
+    <img src="images/linkedin.png" alt="LinkedIn" height="32">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/emonmeena">
+    <img src="images/twitter.png" alt="X (Twitter)" height="32">
+  </a>
+</p>
+
+
 
 </br>
 
