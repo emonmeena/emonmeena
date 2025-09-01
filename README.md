@@ -17,7 +17,7 @@ Web - [Emon Meena](https://emonmeena.netlify.app/)<br> [Blogs](https://medium.co
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/emonmeena">
-    <img src="images/twitter.png" alt="X (Twitter)" height="32">
+    <img src="images/twitter-updated.png" alt="X (Twitter)" height="32">
   </a>
 </p>
 
