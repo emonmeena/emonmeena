@@ -42,7 +42,7 @@ I think the unthinkable and build the impossible.
 ## 🤝 Let's Connect! 
 
 I'm always excited to connect with fellow developers and tech enthusiasts! 
-Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/emonmeena) - don't forget to mention you found me through GitHub! 😊
+Feel free to reach out to me on [X](https://x.com/emonmeena) - don't forget to mention you found me through GitHub! 😊
 
 ## Statistics
 
